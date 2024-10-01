@@ -1,4 +1,4 @@
-## README - Github webhook demo
+## README - Pool SCM Demo
 
 Addressbook Tutorial
 ====================
